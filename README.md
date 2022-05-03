@@ -13,3 +13,5 @@ https://sarahstelljes.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sarah Stelljes
+
+### ©️2019 Run Buddy, Inc
